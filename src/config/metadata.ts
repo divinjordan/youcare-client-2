@@ -1,0 +1,15 @@
+export const metadata = {
+  title: "Youcare",
+  description: "Youcare",
+  language: "fr",
+  author: "Nguekeu divin",
+  siteUrl: "https://symphonisocial.com",
+  siteLogo: "/logo.png",
+  socialBanner: "/logo.png",
+  email: "address@yoursite.com",
+  github: "https://github.com",
+  twitter: "https://twitter.com/Twitter",
+  facebook: "https://facebook.com",
+  youtube: "https://youtube.com",
+  linkedin: "https://www.linkedin.com",
+} as const;

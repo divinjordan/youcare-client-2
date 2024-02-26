@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-width {
+  max-width: 1300px;
+}
+
+.calendar-cell:hover .add-button {
+  display: block;
+}
+
+.disponibilite-card:hover .disponibilite-btns {
+  display: block;
+}
